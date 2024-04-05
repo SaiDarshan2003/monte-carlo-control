@@ -32,7 +32,9 @@ The agent receives a reward of 1 for reaching the goal state, and a reward of 0 
 
 ### Graphical Representation
 <p align='center'>
+  
 ![image](https://github.com/SaiDarshan2003/monte-carlo-control/assets/94692595/713753ca-27e7-4be9-9eb1-965ff7ffc9e2)
+
 </p>
 
 ## MONTE CARLO CONTROL ALGORITHM
